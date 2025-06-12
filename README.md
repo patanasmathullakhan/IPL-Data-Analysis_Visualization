@@ -37,6 +37,4 @@ The following plots are generated using Matplotlib and Seaborn:
 - **Pandas**
 - **Matplotlib**
 - **Seaborn**
-- **Jupyter Notebook (optional)**
-
--
+- **Jupyter Notebook**
